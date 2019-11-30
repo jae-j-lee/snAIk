@@ -7,8 +7,8 @@ from datetime import datetime
 
 pygame.init()
 
-width = 760
-height = 760
+width = 300
+height = 300
 block_length = width/20
 best_fitness = 0
 button_w = block_length * 3
