@@ -1,2 +1,2 @@
-pygame
+pygame==2.0.0.dev6
 neat-python
